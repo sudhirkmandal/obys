@@ -4,6 +4,16 @@
     --orange: orange;
 }
 
+@font-face {
+    font-family: plain light;
+    src: url(./plain-light-webfont.ttf);
+}
+
+@font-face {
+    font-family: silk serif;
+    src: url(./silkserif-regularitalic-webfont\ \(1\).ttf);
+}
+
 * {
     margin: 0%;
     padding: 0%;
